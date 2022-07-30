@@ -289,6 +289,7 @@ const char* furi_hal_version_get_name_ptr() {
     // return "N00BY";
     // return "CH33CH";
     // return "CH0NG";
+    return "Cloud";
 }
 
 const char* furi_hal_version_get_device_name_ptr() {
